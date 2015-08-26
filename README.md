@@ -1,2 +1,2 @@
 # Test
-Test repository
+Test repository for ongoing projects
